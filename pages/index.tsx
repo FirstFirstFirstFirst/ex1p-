@@ -1,5 +1,5 @@
 
-function Home() {
+const Home = () => {
   return (
     <div className='h-screen w-screen flex flex-column justify-center align-middle'>
       <div className='text-2xl text center'>Which Pokemon is Rounder?</div>

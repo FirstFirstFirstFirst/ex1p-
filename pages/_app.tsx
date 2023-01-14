@@ -5,12 +5,12 @@ import type { AppProps } from 'next/app'
 
 
 
-
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <div className=''>
-      Hello world
+      hello
     </div>
   )
 }
+
 export default MyApp;
