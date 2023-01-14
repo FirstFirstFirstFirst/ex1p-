@@ -2,8 +2,7 @@
 module.exports = {
   mode: "jit",
   purge: [
-    "./pages/**/*.{htmal,js,ts,jsx,tsx}",
-    "./components/**/*.{html,js,ts,jsx,tsx}",
+    "./src/**/*.{htmal,js,ts,jsx,tsx}",
   ],
   darkMode: false,
   theme: {

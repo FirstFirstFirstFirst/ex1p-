@@ -10,9 +10,7 @@ export default function Home() {
             <div className="w-16 h-16 bg-red-200" />          
         </div>
 
-      </div>
- 
-      
+      </div>     
   )
 }
 
